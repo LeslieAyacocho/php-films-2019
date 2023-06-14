@@ -1,0 +1,1 @@
+<?php header('Location: guest\view_film.php'); ?>
